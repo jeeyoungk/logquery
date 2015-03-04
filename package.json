@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "coffee-script": "^1.9.1",
     "express": "^4.12.2"
   },
   "devDependencies": {

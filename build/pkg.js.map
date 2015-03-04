@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "pkg.js",
+  "sourceRoot": "../client/",
+  "sources": [
+    "main.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,EAAA,CAAA,SAAA,GAAA,CAAA,CAAA,CAAA;AAAA"
+}

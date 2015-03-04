@@ -1,6 +1,6 @@
 module.exports = (grunt) ->
   # Project configuration.
-  PROJECT_FILES = 'src/**/*.coffee'
+  PROJECT_FILES = 'client/**/*.coffee'
   COMPILED = 'build/pkg.js'
   COMPILED_LIB = 'build/lib.js'
   MINIFIED = 'build/pkg.min.js'
