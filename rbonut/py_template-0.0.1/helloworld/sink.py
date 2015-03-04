@@ -23,7 +23,7 @@ class Sink:
     def metadata(self):
         return rbonut.Metadata(
                 name='jee-sink',
-                # istreams=[("jee-input", "GROUP_BY"))],
+                istreams=[("jee-input", "GROUP_BY"))],
                 istreams=["jee-input"],
                 ostreams=[]
                 )
